@@ -1,3 +1,4 @@
 "CS EXpo"
-CrossWord Puzzle for CS expo
+CrossWord Puzzle 
+Cartoon Game
 related to CS
